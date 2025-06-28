@@ -1,10 +1,10 @@
 <!-- 
-  index.vue
-  The landing page of the application, shown at the root route.
+  Settings.vue
+  The Settings page allows users to configure application preferences.
   Uses a page header for consistent layout.
 -->
 <template>
-  <AppPageHeader title="Home" description="This is the landing page of the application" />
+  <AppPageHeader title="Settings" description="This is the settings page" />
 </template>
 
 <script setup>

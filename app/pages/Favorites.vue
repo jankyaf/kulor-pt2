@@ -1,10 +1,10 @@
 <!-- 
-  index.vue
-  The landing page of the application, shown at the root route.
+  Favorites.vue
+  The Favorites page will display the user's favorite items.
   Uses a page header for consistent layout.
 -->
 <template>
-  <AppPageHeader title="Home" description="This is the landing page of the application" />
+  <AppPageHeader title="Favorites" description="This page will display your favorite items" />
 </template>
 
 <script setup>

@@ -1,10 +1,10 @@
 <!-- 
-  index.vue
-  The landing page of the application, shown at the root route.
+  Help.vue
+  The Help page provides help and support information for users.
   Uses a page header for consistent layout.
 -->
 <template>
-  <AppPageHeader title="Home" description="This is the landing page of the application" />
+  <AppPageHeader title="Help" description="This is the help page" />
 </template>
 
 <script setup>
